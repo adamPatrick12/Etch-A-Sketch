@@ -31,7 +31,24 @@ h1{
     -webkit-text-fill-color: transparent;  
 }
 
+.copyRight{
+    margin-top: 15px;
+    text-align: center;
+}
 
+p{
+    margin-top: 20px;
+    padding-left: 7rem;
+    font-weight: 500;
+    font-size: 17px;
+    display: inline-block;
+}
+
+img{
+    padding-left: 10px;
+    width: 1.9rem;
+   height: 1.9rem;
+}
 
 .container{
     display: flex;
